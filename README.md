@@ -1,26 +1,16 @@
-<img src="./assets/header.svg" width="100%" alt="NullIvy"/>
+<div align="center">
 
-<br/>
+<img src="assets/hero.svg" width="100%" alt="NullIvy, ngoprek dulu paham belakangan">
+<img src="assets/marquee.svg" width="100%" alt="">
+<img src="assets/h-projects.svg" width="100%" alt="Selected projects">
 
-Halo. Gue anak Teknik Informatika yang lebih sering ngoprek terminal daripada ngerjain tugas.
+<a href="https://github.com/NullIvy/sugeng-slay"><img src="assets/p1.svg" width="24%" alt="sugeng-slay"></a>
+<a href="https://github.com/NullIvy/shell-senpai"><img src="assets/p2.svg" width="24%" alt="shell-senpai"></a>
+<a href="https://github.com/NullIvy/datamining_04TPLE001"><img src="assets/p3.svg" width="24%" alt="datamining"></a>
+<a href="https://github.com/NullIvy/Rifi-Simawa-Apps"><img src="assets/p4.svg" width="24%" alt="Rifi-Simawa-Apps"></a>
 
-Repo-repo di sini isinya hal yang lagi gue pelajarin, gue tulis ulang biar nggak lupa. Kadang rapi, kadang berantakan, yang penting jalan dulu.
+<img src="assets/services.svg" width="100%" alt="What I do best">
+<a href="https://bachtyar-syah.blogspot.com"><img src="assets/footer.svg" width="100%" alt="Let's build something bold"></a>
 
-<br/>
+</div>
 
-<p>
-  <a href="https://github.com/NullIvy/shell-senpai"><img src="./assets/card-1.svg" width="49%"/></a>
-  <a href="https://github.com/NullIvy/sugeng-slay"><img src="./assets/card-2.svg" width="49%"/></a>
-  <a href="https://github.com/NullIvy/datamining_04TPLE001"><img src="./assets/card-3.svg" width="49%"/></a>
-  <a href="https://github.com/NullIvy/Rifi-Simawa-Apps"><img src="./assets/card-4.svg" width="49%"/></a>
-</p>
-
-<br/>
-
-**Yang biasa gue pake**
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nextjs,bootstrap,java,python,mysql,powershell,bash,figma,git&theme=dark&perline=11" height="40"/>
-
-<br/><br/>
-
-<sub>Lagi ngulik: ricing terminal di Windows & macOS, UI kecil-kecilan, sama data mining buat tugas kuliah. Sisanya nulis di <a href="https://bachtyar-syah.blogspot.com">blog</a>.</sub>
